@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370547342389",
+    "project_id": "duapuluhnolnol",
+    "storage_bucket": "duapuluhnolnol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370547342389:android:e07d230263323964b6c57c",
+        "android_client_info": {
+          "package_name": "com.example.duapuluhnolnol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYdWiE_-9kcclKX6xyU7kOq7pr0aXA_a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
